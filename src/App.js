@@ -18,8 +18,8 @@ function App() {
 
   return (
     <Switch>
-      <Route exact path="/ghibli-animations" component={ Home } />
-      <Route exact path="/ghibli-animations/favorites" component={ Favorites } />
+      <Route exact path="/" component={ Home } />
+      <Route exact path="/favorites" component={ Favorites } />
     </Switch>
   );
 }
