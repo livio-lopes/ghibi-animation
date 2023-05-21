@@ -1,0 +1,15 @@
+.container__header{
+    background: rgba(0, 125, 249, 1);
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.nav__favorites {
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

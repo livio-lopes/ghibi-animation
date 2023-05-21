@@ -1,0 +1,9 @@
+.container__cardlist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.title__page {
+    text-align: center;
+}
