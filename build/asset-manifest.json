@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ghibli-animations/static/css/main.007c8f40.css",
+    "main.js": "/ghibli-animations/static/js/main.be314da3.js",
+    "index.html": "/ghibli-animations/index.html",
+    "main.007c8f40.css.map": "/ghibli-animations/static/css/main.007c8f40.css.map",
+    "main.be314da3.js.map": "/ghibli-animations/static/js/main.be314da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007c8f40.css",
+    "static/js/main.be314da3.js"
+  ]
+}
