@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ghibli-animations/static/css/main.007c8f40.css",
-    "main.js": "/ghibli-animations/static/js/main.f3f94e7c.js",
-    "index.html": "/ghibli-animations/index.html",
-    "main.007c8f40.css.map": "/ghibli-animations/static/css/main.007c8f40.css.map",
-    "main.f3f94e7c.js.map": "/ghibli-animations/static/js/main.f3f94e7c.js.map"
+    "main.css": "/list-films-ghibli/static/css/main.007c8f40.css",
+    "main.js": "/list-films-ghibli/static/js/main.d1fbebb4.js",
+    "index.html": "/list-films-ghibli/index.html",
+    "main.007c8f40.css.map": "/list-films-ghibli/static/css/main.007c8f40.css.map",
+    "main.d1fbebb4.js.map": "/list-films-ghibli/static/js/main.d1fbebb4.js.map"
   },
   "entrypoints": [
     "static/css/main.007c8f40.css",
-    "static/js/main.f3f94e7c.js"
+    "static/js/main.d1fbebb4.js"
   ]
 }
